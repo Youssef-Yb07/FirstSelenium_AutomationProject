@@ -66,6 +66,7 @@ public class LoginPageTest {
     }
 
 
+    //After the executing all test the teardown method is executed
     @AfterTest
     public void teardownMethod() {
         if (driver != null) {
