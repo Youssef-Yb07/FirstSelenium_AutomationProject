@@ -16,6 +16,10 @@ import java.time.Duration;
 
 public class AppointmentPageTest {
 
+    //Soft asserts are the asserts which continue the execution even after the Assert condition fails.
+    //Here we are using hard asserts as we want to stop the execution if any of the assert fails.
+
+
     private WebDriver driver;
     private WebDriverWait wait;
     private HomePage homePage;

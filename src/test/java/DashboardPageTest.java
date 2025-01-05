@@ -63,7 +63,6 @@ public class DashboardPageTest {
 
     }
 
-
     //After the executing all test the teardown method is executed
     @AfterTest
     public void tearDown(){

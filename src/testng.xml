@@ -2,7 +2,8 @@
 <suite name="Login Suite">
     <test name="Login Tests">
         <classes>
-            <class name="LoginPageTest" />
+            <class name="OrangeHRMTest.LoginPageTest" />
+            <class name="HealthCareWebSiteTest.AppointmentPageTest"/>
         </classes>
     </test>
 </suite>

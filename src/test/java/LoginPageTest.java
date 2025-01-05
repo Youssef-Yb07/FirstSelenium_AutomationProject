@@ -65,7 +65,6 @@ public class LoginPageTest {
         Assert.assertTrue(actual.contains("Invalid credentials"), "Error message is incorrect or not displayed");
     }
 
-
     //After the executing all test the teardown method is executed
     @AfterTest
     public void teardownMethod() {
